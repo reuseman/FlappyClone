@@ -11,7 +11,7 @@ The project is a clone of [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bir
 
  1. Execute `FlappyBird.java`.
  2. The main menu will load and `space` can be pressed to start the game.
- 3. Press space to jump.
+ 3. Press `space` to jump.
  4. Restart the game by pressing `enter` or go back to the main menu by pressing `esc`.
 
 ### For developers
