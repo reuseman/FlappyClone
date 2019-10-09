@@ -1,7 +1,11 @@
 # About the project
 The project is a clone of [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird). It was written in Java 8 using the Swing library in 2017 for a final project at my university. It was just a stylistic exercise to reach a specific objective through coding.
 
-![Game demo](demo.gif)
+
+<p align="center">
+ <img src="demo.gif">
+</p>
+
 
 ## Instructions
 
